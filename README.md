@@ -30,7 +30,7 @@ para poder instalar y hacer correr el proyecto en nuestro local es necesario:
 
 ## Dependencias:
 
-Las dependencias o librerías utilizadas son: 
+Las herramientas utilizadas son: 
 
 - Bootstrap
 - JQuery 
@@ -47,4 +47,4 @@ De forma general, se logra visualizar de la siguiente manera:
 
 Puedes observar el resultado directamente en el siguiente enlace: 
 
-`<link>` : https://camirojasserantoni.github.io/Prueba-ViajesChile/#contacto
+`<link>` : https://camirojasserantoni.github.io/Prueba-ViajesChile

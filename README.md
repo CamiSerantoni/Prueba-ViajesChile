@@ -4,8 +4,8 @@
 
 ## ¿Qué hace el proyecto? 
 Viajes Chile es un proyecto realizado en el contexto de ser la evaluación de cierre de nivel del módulo Fundamentos de desarrollo  front-end, en el programa de desarrollo de aplicaciones Full Stack Javascript.
-En el cual se evaluaron los siguientes contenidos: 
 
+En el cual se evaluaron los siguientes contenidos: 
 - Introducción a HTML.
 - Crear páginas con HTML.
 - Introducción a CSS.

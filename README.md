@@ -47,4 +47,4 @@ De forma general, se logra visualizar de la siguiente manera:
 
 Puedes observar el resultado directamente en el siguiente enlace: 
 
-`<link>` : https://camirojasserantoni.github.io/Prueba-ViajesChile
+`<link>` : https://camiserantoni.github.io/Prueba-ViajesChile/

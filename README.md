@@ -26,7 +26,7 @@ En el cual se evaluaron los siguientes contenidos:
 ## Instalación del Proyecto: 
 
 para poder instalar y hacer correr el proyecto en nuestro local es necesario: 
-- clonar el proyecto y abrir directamente.
+- clonar el proyecto y abrir directamente en el navegador.
 
 ## Dependencias:
 
